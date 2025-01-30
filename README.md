@@ -8,13 +8,12 @@ This is a **3D model of a water valve**, created using **AutoCAD**. The model in
 - **Color & Materials**: Different colors are used to **make parts easy to identify**.  
 
 ## 📷 Preview  
-
-![Screenshot (1366)](https://github.com/user-attachments/assets/e611123d-3eb0-4180-b0b4-2338b3cd725c)
-![Screenshot (1369)](https://github.com/user-attachments/assets/aac03c7c-900c-4940-b95c-6379ee3ac23e)
-![Screenshot (1364)](https://github.com/user-attachments/assets/2c1cbba2-5ffc-4691-a8de-0e07cbfc6baf)
-![Screenshot (1365)](https://github.com/user-attachments/assets/3a331907-3c6f-4b25-8cfe-6665480c2c3a)
-![Screenshot (1368)](https://github.com/user-attachments/assets/4cb2ab8d-ad3f-48e0-924e-784197178d83)
-![Screenshot (1367)](https://github.com/user-attachments/assets/69c73020-ac76-4ac6-8891-fdb48f4c1a1c)
+![Screenshot (1366)](https://github.com/user-attachments/assets/708f70b4-1cc1-48a1-99a3-f523c76444f4)
+![Screenshot (1369)](https://github.com/user-attachments/assets/d82ca999-b550-4956-8d3f-669255a584fe)
+![Screenshot (1364)](https://github.com/user-attachments/assets/914790ed-e046-4ad2-ba12-1e6f2e855937)
+![Screenshot (1365)](https://github.com/user-attachments/assets/db74b6b9-7c74-4854-afc1-23a302057e9c)
+![Screenshot (1367)](https://github.com/user-attachments/assets/ec138492-05bd-4da6-8ecb-89da5a24b5f0)
+![Screenshot (1368)](https://github.com/user-attachments/assets/e1e95435-68e6-4343-84bc-1a653841a854)
 
 ## 🚀 Tools Used  
 - **Software**: AutoCAD  
